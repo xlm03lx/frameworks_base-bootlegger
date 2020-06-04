@@ -26,4 +26,9 @@
     <!-- EdgeGesture service: Thickness of the active trigger fields around the screen border -->
     <dimen name="edge_gesture_trigger_thickness">12dp</dimen>
 
+         <!-- Seekbars -->
+    <dimen name="seekbar_track_material_width">100dp</dimen>
+    <dimen name="seekbar_track_material_radius">10dp</dimen>
+    <dimen name="seekbar_track_material_height">20dp</dimen>
+
 </resources>
